@@ -1,0 +1,7 @@
+[bot]
+token = '1342184323:AAEo9PjgLa6VTfRM5obr7JTEfjPD9Ns94Kw'
+
+[neuraltalk]
+root = '/opt/neural-networks/neuraltalk2/'
+th = '/opt/neural-networks/torch/install/bin/th'
+model = '/data/model/model_id1-501-1448236541.t7_cpu.t7'
